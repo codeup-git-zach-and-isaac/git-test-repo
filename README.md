@@ -1,3 +1,3 @@
 
-Here is some useful readme info
+Here are some useful readme info
 and some more!
